@@ -1,0 +1,6 @@
+{
+  "name": "Traffic Jugaad Run",
+  "description": "Hinglish top-down endless scooter runner through chaotic Indian city traffic with Web Audio sound effects, dhol beats, and Jugaad Mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
